@@ -1,6 +1,6 @@
 <h1>this is the title of the first file README</h1>
 <p>
-I will use this project the below tecnology 
+I will use in this project the below technologys
 </p>
 <ul>
 <li>html</li>
